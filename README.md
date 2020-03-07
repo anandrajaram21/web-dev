@@ -1,2 +1,2 @@
-# web-dev
-A repository containing stuff related to web development
+# Web Development
+A repository containing stuff related to web development.
